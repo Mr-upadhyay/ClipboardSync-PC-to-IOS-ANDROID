@@ -44,7 +44,7 @@ If `python` or `pip` is not recognized, restart your computer and try again.
 
 ## 🚀 Step 2: Download and Open the Folder
 
-- Download the **ClipboardSync** folder to your PC and extract it if it's zipped.
+- Download the **ClipboardSync-PC-to-IOS-ANDROID** folder to your PC and extract it if it's zipped.
 
 ---
 
